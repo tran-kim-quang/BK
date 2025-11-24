@@ -24,10 +24,10 @@ def clean_title(text):
     clean_text = re.sub(r'[\\/*?:"<>|]', "_", text)
     clean_text = re.sub(r'[\x00-\x1f]', '', clean_text)
     return clean_text[:80].strip()
-def get_content(link_khoa_hoc):
+def get_content(link):
     try:
         time.sleep(random.uniform(0.5, 1.5))
-        response = requests.get(link_khoa_hoc, headers=headers)
+        response = requests.get(link, headers=headers)
         if response.status_code != 200:
             return None
         
