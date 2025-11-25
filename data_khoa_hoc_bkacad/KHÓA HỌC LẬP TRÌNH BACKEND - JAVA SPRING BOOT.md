@@ -1,11 +1,3 @@
----
-title: "KHÓA HỌC LẬP TRÌNH BACKEND - JAVA SPRING BOOT"
-url: "https://bkacad.com/khoa-hoc-lap-trinh-backend---java-spring-boot-cod162.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA HỌC LẬP TRÌNH BACKEND - JAVA SPRING BOOT
 
 ## KHÓA HỌC LẬP TRÌNH BACKEND - JAVA SPRING BOOT
 

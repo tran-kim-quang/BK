@@ -1,11 +1,3 @@
----
-title: "KHÓA ĐÀO TẠO CHUYÊN VIÊN KIỂM THỬ PHẦN MỀM TESTER"
-url: "https://bkacad.com/khoa-dao-tao-chuyen-vien-kiem-thu-phan-mem-tester-cod184.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA ĐÀO TẠO CHUYÊN VIÊN KIỂM THỬ PHẦN MỀM TESTER
 
 ## KHÓA ĐÀO TẠO CHUYÊN VIÊN KIỂM THỬ PHẦN MỀM TESTER
 

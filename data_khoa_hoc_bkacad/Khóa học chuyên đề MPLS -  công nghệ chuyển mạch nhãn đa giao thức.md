@@ -1,11 +1,3 @@
----
-title: "Khóa học chuyên đề MPLS -  công nghệ chuyển mạch nhãn đa giao thức"
-url: "https://bkacad.com/khoa-hoc-chuyen-de-mpls-cong-nghe-chuyen-mach-nhan-da-giao-thuc-cod83.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# Khóa học chuyên đề MPLS -  công nghệ chuyển mạch nhãn đa giao thức
 
 ## Khóa học chuyên đề MPLS - công nghệ chuyển mạch nhãn đa giao thức
 

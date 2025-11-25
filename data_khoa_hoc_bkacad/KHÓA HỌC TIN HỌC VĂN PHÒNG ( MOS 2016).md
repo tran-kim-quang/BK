@@ -1,11 +1,3 @@
----
-title: "KHÓA HỌC TIN HỌC VĂN PHÒNG ( MOS 2016)"
-url: "https://bkacad.com/tinhocvanphongmos-cod170.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA HỌC TIN HỌC VĂN PHÒNG ( MOS 2016)
 
 ## KHÓA HỌC TIN HỌC VĂN PHÒNG ( MOS 2016)
 

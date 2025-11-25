@@ -1,11 +1,3 @@
----
-title: "THÔNG TIN TUYỂN SINH CHƯƠNG TRÌNH THỰC HÀNH BTEC NĂM 2025"
-url: "https://bkacad.com/thong-tin-tuyen-sinh-chuong-trinh-btec-nam-2024-cod158.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# THÔNG TIN TUYỂN SINH CHƯƠNG TRÌNH THỰC HÀNH BTEC NĂM 2025
 
 ## THÔNG TIN TUYỂN SINH CHƯƠNG TRÌNH THỰC HÀNH BTEC NĂM 2025
 

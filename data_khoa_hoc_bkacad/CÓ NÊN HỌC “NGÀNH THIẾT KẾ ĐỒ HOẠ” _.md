@@ -1,11 +1,3 @@
----
-title: "CÓ NÊN HỌC “NGÀNH THIẾT KẾ ĐỒ HOẠ” _"
-url: "https://bkacad.com/co-nen-hoc-nganh-thiet-ke-do-hoa-cod144.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# CÓ NÊN HỌC “NGÀNH THIẾT KẾ ĐỒ HOẠ” _
 
 ## CÓ NÊN HỌC “NGÀNH THIẾT KẾ ĐỒ HOẠ” ?
 

@@ -1,11 +1,3 @@
----
-title: "KHÓA HỌC QUẢN TRỊ HỆ THỐNG VỚI NGÔN NGỮ PYTHON"
-url: "https://bkacad.com/khoa-hoc-quan-tri-he-thong-voi-ngon-ngu-python-cod146.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA HỌC QUẢN TRỊ HỆ THỐNG VỚI NGÔN NGỮ PYTHON
 
 ## KHÓA HỌC QUẢN TRỊ HỆ THỐNG VỚI NGÔN NGỮ PYTHON
 

@@ -1,11 +1,3 @@
----
-title: "SCNA - Chuyên gia kiến trúc mạng bảo mật quốc tế"
-url: "https://bkacad.com/scna-chuyen-gia-kien-truc-mang-bao-mat-quoc-te-cod95.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# SCNA - Chuyên gia kiến trúc mạng bảo mật quốc tế
 
 ## SCNA - Chuyên gia kiến trúc mạng bảo mật quốc tế
 

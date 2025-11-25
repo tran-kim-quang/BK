@@ -1,11 +1,3 @@
----
-title: "QUỸ HỌC BỔNG “NÓNG BỎNG” DÀNH CHO CÁC BẠN SINH VIÊN BTEC TẠI CHƯƠNG TRÌNH HỌC VI"
-url: "https://bkacad.com/quy-hoc-bong-nong-bong-danh-cho-cac-ban-sinh-vien-hoc-vien-cong-nghe-bkacad-cod159.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# QUỸ HỌC BỔNG “NÓNG BỎNG” DÀNH CHO CÁC BẠN SINH VIÊN BTEC TẠI CHƯƠNG TRÌNH HỌC VI
 
 ## QUỸ HỌC BỔNG “NÓNG BỎNG” DÀNH CHO CÁC BẠN SINH VIÊN BTEC TẠI CHƯƠNG TRÌNH HỌC VIỆN CÔNG NGHỆ BKACAD
 

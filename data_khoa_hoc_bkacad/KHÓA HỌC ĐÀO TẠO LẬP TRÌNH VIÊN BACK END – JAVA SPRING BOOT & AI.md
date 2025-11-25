@@ -1,11 +1,3 @@
----
-title: "KHÓA HỌC ĐÀO TẠO LẬP TRÌNH VIÊN BACK END – JAVA SPRING BOOT & AI"
-url: "https://bkacad.com/khoa-hoc-dao-tao-lap-trinh-vien-back-end-–-java-spring-boot-amp;-ai-cod193.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA HỌC ĐÀO TẠO LẬP TRÌNH VIÊN BACK END – JAVA SPRING BOOT & AI
 
 ## KHÓA HỌC ĐÀO TẠO LẬP TRÌNH VIÊN BACK END – JAVA SPRING BOOT & AI
 

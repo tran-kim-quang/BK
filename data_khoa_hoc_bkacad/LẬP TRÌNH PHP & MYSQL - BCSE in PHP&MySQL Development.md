@@ -1,11 +1,3 @@
----
-title: "LẬP TRÌNH PHP & MYSQL - BCSE in PHP&MySQL Development"
-url: "https://bkacad.com/lap-trinh-php-mysql-bcse-in-php-mysql-development-cod118.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# LẬP TRÌNH PHP & MYSQL - BCSE in PHP&MySQL Development
 
 ## LẬP TRÌNH PHP & MYSQL - BCSE in PHP&MySQL Development
 

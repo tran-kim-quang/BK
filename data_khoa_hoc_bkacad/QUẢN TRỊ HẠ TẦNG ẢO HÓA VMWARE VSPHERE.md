@@ -1,11 +1,3 @@
----
-title: "QUẢN TRỊ HẠ TẦNG ẢO HÓA VMWARE VSPHERE"
-url: "https://bkacad.com/he-thong-ao-hoa-vmware-vsphere-7-cod161.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# QUẢN TRỊ HẠ TẦNG ẢO HÓA VMWARE VSPHERE
 
 ## QUẢN TRỊ HẠ TẦNG ẢO HÓA VMWARE VSPHERE
 

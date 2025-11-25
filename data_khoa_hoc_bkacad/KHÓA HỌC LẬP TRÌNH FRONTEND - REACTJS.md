@@ -1,11 +1,3 @@
----
-title: "KHÓA HỌC LẬP TRÌNH FRONTEND - REACTJS"
-url: "https://bkacad.com/khoa-hoc-lap-trinh-frontend-reactjs-cod163.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA HỌC LẬP TRÌNH FRONTEND - REACTJS
 
 ## KHÓA HỌC LẬP TRÌNH FRONTEND - REACTJS
 

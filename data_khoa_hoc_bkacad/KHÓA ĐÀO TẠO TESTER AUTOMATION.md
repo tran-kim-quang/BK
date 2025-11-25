@@ -1,11 +1,3 @@
----
-title: "KHÓA ĐÀO TẠO TESTER AUTOMATION"
-url: "https://bkacad.com/khoa-dao-tao-tester-automation-cod185.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA ĐÀO TẠO TESTER AUTOMATION
 
 ## KHÓA ĐÀO TẠO TESTER AUTOMATION
 

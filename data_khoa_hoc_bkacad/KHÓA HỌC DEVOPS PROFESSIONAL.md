@@ -1,11 +1,3 @@
----
-title: "KHÓA HỌC DEVOPS PROFESSIONAL"
-url: "https://bkacad.com/devops-pro-cod156.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA HỌC DEVOPS PROFESSIONAL
 
 ## KHÓA HỌC DEVOPS PROFESSIONAL
 

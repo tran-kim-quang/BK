@@ -1,11 +1,3 @@
----
-title: "KHÓA HỌC LUYỆN THI CHỨNG CHỈ QUỐC TẾ BUSINESS ANALYST - BA"
-url: "https://bkacad.com/khoa-hoc-luyen-thi-chung-chi-quoc-te-business-analyst---ba-cod182.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA HỌC LUYỆN THI CHỨNG CHỈ QUỐC TẾ BUSINESS ANALYST - BA
 
 ## KHÓA HỌC LUYỆN THI CHỨNG CHỈ QUỐC TẾ BUSINESS ANALYST - BA
 

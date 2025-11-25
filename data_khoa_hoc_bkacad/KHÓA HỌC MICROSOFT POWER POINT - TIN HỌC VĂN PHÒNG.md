@@ -1,11 +1,3 @@
----
-title: "KHÓA HỌC MICROSOFT POWER POINT - TIN HỌC VĂN PHÒNG"
-url: "https://bkacad.com/khoa-hoc-microsoft-power-point---tin-hoc-van-phong-cod176.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA HỌC MICROSOFT POWER POINT - TIN HỌC VĂN PHÒNG
 
 ## KHÓA HỌC MICROSOFT POWER POINT - TIN HỌC VĂN PHÒNG
 

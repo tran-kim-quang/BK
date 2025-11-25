@@ -1,11 +1,3 @@
----
-title: "Khóa học điều tra tội phạm máy tính - CHFI"
-url: "https://bkacad.com/khoa-hoc-dieu-tra-toi-pham-may-tinh-chfi-cod96.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# Khóa học điều tra tội phạm máy tính - CHFI
 
 ## Khóa học điều tra tội phạm máy tính - CHFI
 

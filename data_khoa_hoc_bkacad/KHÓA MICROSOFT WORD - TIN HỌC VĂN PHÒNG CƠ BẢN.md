@@ -1,11 +1,3 @@
----
-title: "KHÓA MICROSOFT WORD - TIN HỌC VĂN PHÒNG CƠ BẢN"
-url: "https://bkacad.com/khoa-microsoft-word---tin-hoc-van-phong-co-ban-cod173.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA MICROSOFT WORD - TIN HỌC VĂN PHÒNG CƠ BẢN
 
 ## KHÓA MICROSOFT WORD - TIN HỌC VĂN PHÒNG CƠ BẢN
 

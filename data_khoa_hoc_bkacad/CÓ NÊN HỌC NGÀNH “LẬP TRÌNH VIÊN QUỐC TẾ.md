@@ -1,11 +1,3 @@
----
-title: "CÓ NÊN HỌC NGÀNH “LẬP TRÌNH VIÊN QUỐC TẾ"
-url: "https://bkacad.com/co-nen-hoc-nganh-lap-trinh-vien-quoc-te-cod135.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# CÓ NÊN HỌC NGÀNH “LẬP TRÌNH VIÊN QUỐC TẾ
 
 ## CÓ NÊN HỌC NGÀNH “LẬP TRÌNH VIÊN QUỐC TẾ
 

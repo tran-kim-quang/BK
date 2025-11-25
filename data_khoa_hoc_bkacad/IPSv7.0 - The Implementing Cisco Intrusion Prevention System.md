@@ -1,11 +1,3 @@
----
-title: "IPSv7.0 - The Implementing Cisco Intrusion Prevention System"
-url: "https://bkacad.com/ipsv7-the-implementing-cisco-intrusion-prevention-system-cod101.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# IPSv7.0 - The Implementing Cisco Intrusion Prevention System
 
 ## IPSv7.0 - The Implementing Cisco Intrusion Prevention System
 

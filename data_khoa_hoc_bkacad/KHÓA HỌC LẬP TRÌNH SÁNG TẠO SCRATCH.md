@@ -1,11 +1,3 @@
----
-title: "KHÓA HỌC LẬP TRÌNH SÁNG TẠO SCRATCH"
-url: "https://bkacad.com/khoa-hoc-lap-trinh-sang-tao-scratch-cod183.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA HỌC LẬP TRÌNH SÁNG TẠO SCRATCH
 
 ## KHÓA HỌC LẬP TRÌNH SÁNG TẠO SCRATCH
 

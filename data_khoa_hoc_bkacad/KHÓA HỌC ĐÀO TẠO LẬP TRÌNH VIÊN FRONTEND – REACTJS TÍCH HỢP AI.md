@@ -1,11 +1,3 @@
----
-title: "KHÓA HỌC ĐÀO TẠO LẬP TRÌNH VIÊN FRONTEND – REACTJS TÍCH HỢP AI"
-url: "https://bkacad.com/khoa-hoc-dao-tao-lap-trinh-vien-frontend-–-reactjs-tich-hop-ai-cod194.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA HỌC ĐÀO TẠO LẬP TRÌNH VIÊN FRONTEND – REACTJS TÍCH HỢP AI
 
 ## KHÓA HỌC ĐÀO TẠO LẬP TRÌNH VIÊN FRONTEND – REACTJS TÍCH HỢP AI
 

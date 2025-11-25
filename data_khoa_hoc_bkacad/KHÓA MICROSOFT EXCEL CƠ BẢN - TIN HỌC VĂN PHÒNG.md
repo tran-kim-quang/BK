@@ -1,11 +1,3 @@
----
-title: "KHÓA MICROSOFT EXCEL CƠ BẢN - TIN HỌC VĂN PHÒNG"
-url: "https://bkacad.com/khoa-microsoft-excel-co-ban---tin-hoc-van-phong-cod174.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA MICROSOFT EXCEL CƠ BẢN - TIN HỌC VĂN PHÒNG
 
 ## KHÓA MICROSOFT EXCEL CƠ BẢN - TIN HỌC VĂN PHÒNG
 

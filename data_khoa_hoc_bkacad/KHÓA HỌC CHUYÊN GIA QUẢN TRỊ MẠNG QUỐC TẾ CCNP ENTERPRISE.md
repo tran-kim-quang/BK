@@ -1,11 +1,3 @@
----
-title: "KHÓA HỌC CHUYÊN GIA QUẢN TRỊ MẠNG QUỐC TẾ CCNP ENTERPRISE"
-url: "https://bkacad.com/khoa-hoc-chuyen-gia-quan-tri-mang-quoc-te-ccnp-enterprise-cod46.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA HỌC CHUYÊN GIA QUẢN TRỊ MẠNG QUỐC TẾ CCNP ENTERPRISE
 
 ## KHÓA HỌC CHUYÊN GIA QUẢN TRỊ MẠNG QUỐC TẾ CCNP ENTERPRISE
 

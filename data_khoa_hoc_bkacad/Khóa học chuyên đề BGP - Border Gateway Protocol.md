@@ -1,11 +1,3 @@
----
-title: "Khóa học chuyên đề BGP - Border Gateway Protocol"
-url: "https://bkacad.com/khoa-hoc-chuyen-de-bgp-border-gateway-protocol-cod82.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# Khóa học chuyên đề BGP - Border Gateway Protocol
 
 ## Khóa học chuyên đề BGP - Border Gateway Protocol
 

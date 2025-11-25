@@ -1,11 +1,3 @@
----
-title: "Khóa học chuyên đề QoS - Quality of Service"
-url: "https://bkacad.com/khoa-hoc-chuyen-de-qos-quality-of-service-cod81.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# Khóa học chuyên đề QoS - Quality of Service
 
 ## Khóa học chuyên đề QoS - Quality of Service
 

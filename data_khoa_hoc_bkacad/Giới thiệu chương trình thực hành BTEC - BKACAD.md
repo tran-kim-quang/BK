@@ -1,11 +1,3 @@
----
-title: "Giới thiệu chương trình thực hành BTEC - BKACAD"
-url: "https://bkacad.com/gioi-thieu-chuong-trinh-btec---bkacad-cod180.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# Giới thiệu chương trình thực hành BTEC - BKACAD
 
 ## Giới thiệu chương trình thực hành BTEC - BKACAD
 

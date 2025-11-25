@@ -1,11 +1,3 @@
----
-title: "CHUYÊN NGÀNH LẬP TRÌNH MÁY TÍNH"
-url: "https://bkacad.com/chuong-trinh-chuyen-gia-lap-trinh-vien-quoc-te-cod148.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# CHUYÊN NGÀNH LẬP TRÌNH MÁY TÍNH
 
 ## CHUYÊN NGÀNH LẬP TRÌNH MÁY TÍNH
 

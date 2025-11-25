@@ -1,11 +1,3 @@
----
-title: "THÔNG BÁO KỲ THI HỌC BỔNG"
-url: "https://bkacad.com/thong-bao-ky-thi-hoc-bong--sinh-vien-tai-nang-2024--–-co-hoi-nhan-hoc-bong-toan-phan-danh-cho-cac-ban-hoc-sinh-thpt-cod151.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# THÔNG BÁO KỲ THI HỌC BỔNG
 
 ## THÔNG BÁO KỲ THI HỌC BỔNG "SINH VIÊN TÀI NĂNG 2025" – CƠ HỘI NHẬN HỌC BỔNG TOÀN PHẦN DÀNH CHO CÁC BẠN HỌC SINH THPT
 

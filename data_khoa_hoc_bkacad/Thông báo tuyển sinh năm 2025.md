@@ -1,11 +1,3 @@
----
-title: "Thông báo tuyển sinh năm 2025"
-url: "https://bkacad.com/thong-bao-tuyen-sinh-cac-chuong-trinh-dao-tao-tai-bkacad-nam-2025-cod188.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# Thông báo tuyển sinh năm 2025
 
 ## Thông báo tuyển sinh năm 2025
 

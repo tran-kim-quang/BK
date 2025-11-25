@@ -1,11 +1,3 @@
----
-title: "LỘ TRÌNH HỌC VÀ THI CHỨNG CHỈ  CHUYÊN GIA ĐÁNH GIÁ  HỆ THỐNG QUẢN LÝ AN TOÀN THÔ"
-url: "https://bkacad.com/khoa-hoc--isoiec-27001:2022-cod192.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# LỘ TRÌNH HỌC VÀ THI CHỨNG CHỈ  CHUYÊN GIA ĐÁNH GIÁ  HỆ THỐNG QUẢN LÝ AN TOÀN THÔ
 
 ## LỘ TRÌNH HỌC VÀ THI CHỨNG CHỈ CHUYÊN GIA ĐÁNH GIÁ HỆ THỐNG QUẢN LÝ AN TOÀN THÔNG TIN THEO TIÊU CHUẨN TCVN ISO/IEC 27001:2022
 

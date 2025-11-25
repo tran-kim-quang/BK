@@ -1,11 +1,3 @@
----
-title: "KHÓA ĐÀO TẠO THIẾT KẾ CHUYÊN NGHIỆP VỚI ỨNG DỤNG CANVA"
-url: "https://bkacad.com/khoa-dao-tao-thiet-ke-truyen-thong-marketing-voi-ung-dung-canva-cod191.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA ĐÀO TẠO THIẾT KẾ CHUYÊN NGHIỆP VỚI ỨNG DỤNG CANVA
 
 ## KHÓA ĐÀO TẠO THIẾT KẾ CHUYÊN NGHIỆP VỚI ỨNG DỤNG CANVA
 

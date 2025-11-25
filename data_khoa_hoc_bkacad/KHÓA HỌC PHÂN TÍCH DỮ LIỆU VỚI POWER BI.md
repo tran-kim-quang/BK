@@ -1,11 +1,3 @@
----
-title: "KHÓA HỌC PHÂN TÍCH DỮ LIỆU VỚI POWER BI"
-url: "https://bkacad.com/khoa-hoc-phan-tich-du-lieu-voi-power-bi-cod190.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA HỌC PHÂN TÍCH DỮ LIỆU VỚI POWER BI
 
 ## KHÓA HỌC PHÂN TÍCH DỮ LIỆU VỚI POWER BI
 

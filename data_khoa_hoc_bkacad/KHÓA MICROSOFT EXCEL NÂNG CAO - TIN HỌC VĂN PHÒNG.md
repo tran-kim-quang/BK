@@ -1,11 +1,3 @@
----
-title: "KHÓA MICROSOFT EXCEL NÂNG CAO - TIN HỌC VĂN PHÒNG"
-url: "https://bkacad.com/khoa-microsoft-excel-nang-cao---tin-hoc-van-phong-cod175.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA MICROSOFT EXCEL NÂNG CAO - TIN HỌC VĂN PHÒNG
 
 ## KHÓA MICROSOFT EXCEL NÂNG CAO - TIN HỌC VĂN PHÒNG
 

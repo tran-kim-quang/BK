@@ -1,11 +1,3 @@
----
-title: "KHÓA HỌC ỨNG DỤNG AI TRONG DIGITAL MARKETING"
-url: "https://bkacad.com/khoa-hoc-ung-dung-ai-trong-digital-marketing-cod186.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA HỌC ỨNG DỤNG AI TRONG DIGITAL MARKETING
 
 ## KHÓA HỌC ỨNG DỤNG AI TRONG DIGITAL MARKETING
 

@@ -1,11 +1,3 @@
----
-title: "Chương trình Quản trị CSDL Oracle 11G"
-url: "https://bkacad.com/chuong-trinh-quan-tri-csdl-oracle-11g-cod111.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# Chương trình Quản trị CSDL Oracle 11G
 
 ## Chương trình Quản trị CSDL Oracle 11G
 

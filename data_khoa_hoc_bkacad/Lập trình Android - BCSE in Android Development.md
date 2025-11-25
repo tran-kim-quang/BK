@@ -1,11 +1,3 @@
----
-title: "Lập trình Android - BCSE in Android Development"
-url: "https://bkacad.com/lap-trinh-android-bcse-in-android-development-cod117.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# Lập trình Android - BCSE in Android Development
 
 ## Lập trình Android - BCSE in Android Development
 

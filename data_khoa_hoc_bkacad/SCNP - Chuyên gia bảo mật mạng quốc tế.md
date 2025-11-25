@@ -1,11 +1,3 @@
----
-title: "SCNP - Chuyên gia bảo mật mạng quốc tế"
-url: "https://bkacad.com/scnp-chuyen-gia-bao-mat-mang-quoc-te-cod94.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# SCNP - Chuyên gia bảo mật mạng quốc tế
 
 ## SCNP - Chuyên gia bảo mật mạng quốc tế
 

@@ -1,11 +1,3 @@
----
-title: "Securing Networks with Cisco Routers and Switches"
-url: "https://bkacad.com/securing-networks-with-cisco-routers-and-switches-cod100.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# Securing Networks with Cisco Routers and Switches
 
 ## Securing Networks with Cisco Routers and Switches
 

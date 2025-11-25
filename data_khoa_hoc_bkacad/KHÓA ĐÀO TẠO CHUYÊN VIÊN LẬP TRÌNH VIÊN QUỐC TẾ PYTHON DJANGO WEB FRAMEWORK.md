@@ -1,11 +1,3 @@
----
-title: "KHÓA ĐÀO TẠO CHUYÊN VIÊN LẬP TRÌNH VIÊN QUỐC TẾ PYTHON DJANGO WEB FRAMEWORK"
-url: "https://bkacad.com/python-django-web-framework-cod172.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# KHÓA ĐÀO TẠO CHUYÊN VIÊN LẬP TRÌNH VIÊN QUỐC TẾ PYTHON DJANGO WEB FRAMEWORK
 
 ## KHÓA ĐÀO TẠO CHUYÊN VIÊN LẬP TRÌNH VIÊN QUỐC TẾ PYTHON DJANGO WEB FRAMEWORK
 

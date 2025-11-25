@@ -1,11 +1,3 @@
----
-title: "CHƯƠNG TRÌNH ĐÀO TẠO DOANH NGHIỆP"
-url: "https://bkacad.com/chuong-trinh-dao-tao-doanh-nghiep-cod165.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# CHƯƠNG TRÌNH ĐÀO TẠO DOANH NGHIỆP
 
 ## CHƯƠNG TRÌNH ĐÀO TẠO DOANH NGHIỆP
 

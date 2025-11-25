@@ -1,11 +1,3 @@
----
-title: "CHUYÊN NGÀNH THIẾT KẾ ĐỒ HỌA"
-url: "https://bkacad.com/chuong-trinh-chuyen-thiet-ke-do-hoa-quoc-te-cod150.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# CHUYÊN NGÀNH THIẾT KẾ ĐỒ HỌA
 
 ## CHUYÊN NGÀNH THIẾT KẾ ĐỒ HỌA
 

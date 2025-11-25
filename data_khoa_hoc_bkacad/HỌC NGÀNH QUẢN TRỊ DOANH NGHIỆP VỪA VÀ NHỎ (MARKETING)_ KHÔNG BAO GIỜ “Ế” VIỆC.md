@@ -1,11 +1,3 @@
----
-title: "HỌC NGÀNH QUẢN TRỊ DOANH NGHIỆP VỪA VÀ NHỎ (MARKETING)_ KHÔNG BAO GIỜ “Ế” VIỆC"
-url: "https://bkacad.com/hoc-nganh-cong-nghe-thong-tin-quan-tri-kinh-doanh-khong-bao-gio-viec-cod128.html"
-source: "BKACAD Website"
-crawled_at: "2025-11-25"
----
-
-# HỌC NGÀNH QUẢN TRỊ DOANH NGHIỆP VỪA VÀ NHỎ (MARKETING)_ KHÔNG BAO GIỜ “Ế” VIỆC
 
 ## HỌC NGÀNH QUẢN TRỊ DOANH NGHIỆP VỪA VÀ NHỎ (MARKETING): KHÔNG BAO GIỜ “Ế” VIỆC
 
