@@ -2,7 +2,7 @@
 title: "QUẢN TRỊ HẠ TẦNG ẢO HÓA VMWARE VSPHERE"
 url: "https://bkacad.com/he-thong-ao-hoa-vmware-vsphere-7-cod161.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # QUẢN TRỊ HẠ TẦNG ẢO HÓA VMWARE VSPHERE
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### QUẢN TRỊ HẠ TẦNG ẢO HÓA VMWARE VSPHERE
 
 09:49 09/05/2022 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![QUẢN TRỊ HẠ TẦNG ẢO HÓA VMWARE VSPHERE](images/course/2022/05/original/vmware-vsphere-7-0_1652064556.jpg)
 

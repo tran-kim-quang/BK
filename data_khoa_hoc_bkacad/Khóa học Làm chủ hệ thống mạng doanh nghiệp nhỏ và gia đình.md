@@ -2,7 +2,7 @@
 title: "Khóa học Làm chủ hệ thống mạng doanh nghiệp nhỏ và gia đình"
 url: "https://bkacad.com/Khoa-hoc-Lam-chu-he-thong-mang-doanh-nghiep-nho-va-gia-dinh-cod113.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # Khóa học Làm chủ hệ thống mạng doanh nghiệp nhỏ và gia đình
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### Khóa học Làm chủ hệ thống mạng doanh nghiệp nhỏ và gia đình
 
 12:09 13/08/2015 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![Khóa học Làm chủ hệ thống mạng doanh nghiệp nhỏ và gia đình](images/news/olds/wgm1439442440.jpg)
 

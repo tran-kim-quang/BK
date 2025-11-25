@@ -2,7 +2,7 @@
 title: "NGÀNH THIẾT KẾ ĐỒ HỌA – MỌI ĐIỀU CẦN BIẾT_"
 url: "https://bkacad.com/nganh-thiet-ke-do-hoa-moi-dieu-can-biet-cod133.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # NGÀNH THIẾT KẾ ĐỒ HỌA – MỌI ĐIỀU CẦN BIẾT_
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### NGÀNH THIẾT KẾ ĐỒ HỌA – MỌI ĐIỀU CẦN BIẾT?
 
 10:01 24/03/2020 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![NGÀNH THIẾT KẾ ĐỒ HỌA – MỌI ĐIỀU CẦN BIẾT?](images/course/2023/05/original/cnj1585039186-02_1684726612.jpg)
 

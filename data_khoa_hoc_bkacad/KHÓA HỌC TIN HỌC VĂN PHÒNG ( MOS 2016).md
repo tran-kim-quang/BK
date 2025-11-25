@@ -2,7 +2,7 @@
 title: "KHÓA HỌC TIN HỌC VĂN PHÒNG ( MOS 2016)"
 url: "https://bkacad.com/tinhocvanphongmos-cod170.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # KHÓA HỌC TIN HỌC VĂN PHÒNG ( MOS 2016)
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### KHÓA HỌC TIN HỌC VĂN PHÒNG ( MOS 2016)
 
 11:46 17/05/2023 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![KHÓA HỌC TIN HỌC VĂN PHÒNG ( MOS 2016)](images/course/2023/05/original/mos-w-e-p_1684298811.png)
 

@@ -2,7 +2,7 @@
 title: "TRỞ THÀNH CHUYÊN GIA QUẢN TRỊ MẠNG & BẢO MẬT HỆ THỐNG – CON ĐƯỜNG CHINH PHỤC TƯ"
 url: "https://bkacad.com/tro-thanh-chuyen-gia-quan-tri-mang-bao-mat-he-thong-con-duong-chinh-phuc-tuong-lai-cod125.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # TRỞ THÀNH CHUYÊN GIA QUẢN TRỊ MẠNG & BẢO MẬT HỆ THỐNG – CON ĐƯỜNG CHINH PHỤC TƯ
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### TRỞ THÀNH CHUYÊN GIA QUẢN TRỊ MẠNG & BẢO MẬT HỆ THỐNG – CON ĐƯỜNG CHINH PHỤC TƯƠNG LAI
 
 14:48 03/05/2018 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![ TRỞ THÀNH CHUYÊN GIA QUẢN TRỊ MẠNG & BẢO MẬT HỆ THỐNG – CON ĐƯỜNG CHINH PHỤC TƯƠNG LAI](images/course/2023/05/original/red1525341287-01_1684722126.jpg)
 

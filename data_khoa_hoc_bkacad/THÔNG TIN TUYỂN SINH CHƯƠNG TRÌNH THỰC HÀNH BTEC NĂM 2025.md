@@ -2,7 +2,7 @@
 title: "THÔNG TIN TUYỂN SINH CHƯƠNG TRÌNH THỰC HÀNH BTEC NĂM 2025"
 url: "https://bkacad.com/thong-tin-tuyen-sinh-chuong-trinh-btec-nam-2024-cod158.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # THÔNG TIN TUYỂN SINH CHƯƠNG TRÌNH THỰC HÀNH BTEC NĂM 2025
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### THÔNG TIN TUYỂN SINH CHƯƠNG TRÌNH THỰC HÀNH BTEC NĂM 2025
 
 15:35 06/01/2022 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![THÔNG TIN TUYỂN SINH CHƯƠNG TRÌNH THỰC HÀNH BTEC NĂM 2025](images/course/2024/11/original/z6030919343587_daaa502804d46d364d062129f9fa5860_1731558371.jpg)
 

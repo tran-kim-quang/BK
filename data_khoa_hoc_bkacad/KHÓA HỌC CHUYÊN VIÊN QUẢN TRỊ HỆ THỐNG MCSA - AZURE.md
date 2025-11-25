@@ -2,7 +2,7 @@
 title: "KHÓA HỌC CHUYÊN VIÊN QUẢN TRỊ HỆ THỐNG MCSA - AZURE"
 url: "https://bkacad.com/khoa-hoc-dao-tao-chuyen-vien-quan-tri-he-thong-azure-cod137.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # KHÓA HỌC CHUYÊN VIÊN QUẢN TRỊ HỆ THỐNG MCSA - AZURE
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### KHÓA HỌC CHUYÊN VIÊN QUẢN TRỊ HỆ THỐNG MCSA - AZURE
 
 10:31 27/04/2020 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![KHÓA HỌC CHUYÊN VIÊN QUẢN TRỊ HỆ THỐNG MCSA - AZURE](images/course/2020/08/original/microsoft-azure_1597650947.png)
 

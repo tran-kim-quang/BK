@@ -2,7 +2,7 @@
 title: "CÓ NÊN HỌC “NGÀNH THIẾT KẾ ĐỒ HOẠ” _"
 url: "https://bkacad.com/co-nen-hoc-nganh-thiet-ke-do-hoa-cod144.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # CÓ NÊN HỌC “NGÀNH THIẾT KẾ ĐỒ HOẠ” _
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### CÓ NÊN HỌC “NGÀNH THIẾT KẾ ĐỒ HOẠ” ?
 
 16:03 11/05/2020 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![CÓ NÊN HỌC “NGÀNH THIẾT KẾ ĐỒ HOẠ” ?](images/course/2023/05/original/tkdh-new-01_1684725704.jpg)
 

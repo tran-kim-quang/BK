@@ -2,7 +2,7 @@
 title: "CHUYÊN GIA BẢO MẬT MẠNG CEH Ver 12"
 url: "https://bkacad.com/chuyen-gia-bao-mat-mang-ceh-cod145.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # CHUYÊN GIA BẢO MẬT MẠNG CEH Ver 12
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### CHUYÊN GIA BẢO MẬT MẠNG CEH Ver 12
 
 16:52 17/08/2020 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![CHUYÊN GIA BẢO MẬT MẠNG CEH Ver 12](images/course/2021/07/original/ceh_1625200617.png)
 

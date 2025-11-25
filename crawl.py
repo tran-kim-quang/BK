@@ -39,6 +39,7 @@ def get_content(link):
         if target_div:
             html_content = target_div.decode_contents()
             markdown_text = md(html_content, heading_style="ATX", strip=['script', 'style'])
+            markdown_text = re.sub(r'\(function\s*\(d,\s*s,\s*id\).*?facebook-jssdk.*?\)\);', '', markdown_text, flags=re.DOTALL)
             markdown_text = re.sub(r'\n\s*\n', '\n\n', markdown_text)            
             return markdown_text
         return None
@@ -111,8 +112,6 @@ def main():
         except Exception as e:
             print(f"Error at {page_count}: {e}")
             break
-
-    print(f"\n--- HOÀN TẤT ---")
     print(f"Saved {total_files} in: {output_folder}")
 
 if __name__ == "__main__":

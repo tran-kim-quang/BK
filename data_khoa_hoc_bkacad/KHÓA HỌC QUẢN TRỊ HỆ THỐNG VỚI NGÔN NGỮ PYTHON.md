@@ -2,7 +2,7 @@
 title: "KHÓA HỌC QUẢN TRỊ HỆ THỐNG VỚI NGÔN NGỮ PYTHON"
 url: "https://bkacad.com/khoa-hoc-quan-tri-he-thong-voi-ngon-ngu-python-cod146.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # KHÓA HỌC QUẢN TRỊ HỆ THỐNG VỚI NGÔN NGỮ PYTHON
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### KHÓA HỌC QUẢN TRỊ HỆ THỐNG VỚI NGÔN NGỮ PYTHON
 
 16:07 14/09/2020 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![KHÓA HỌC QUẢN TRỊ HỆ THỐNG VỚI NGÔN NGỮ PYTHON](images/course/2020/09/original/quan-tri-he-thong-voi-python-01_1600074470.jpg)
 

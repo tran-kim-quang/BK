@@ -2,7 +2,7 @@
 title: "KHÓA HỌC GRAPHIC DESIGN FOR KID"
 url: "https://bkacad.com/khoa-hoc-graphic-design-for-kid-cod178.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # KHÓA HỌC GRAPHIC DESIGN FOR KID
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### KHÓA HỌC GRAPHIC DESIGN FOR KID
 
 11:24 14/12/2023 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![KHÓA HỌC GRAPHIC DESIGN FOR KID](images/course/2023/12/original/tuyen_design_0469db5ee8194d71b3a7d24ff475f4b6_ef9304b408204e09aea004524f1f4de1_1024x1024_1702527895.png)
 

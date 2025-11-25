@@ -2,7 +2,7 @@
 title: "KHÓA HỌC PHÂN TÍCH DỮ LIỆU VỚI POWER BI"
 url: "https://bkacad.com/khoa-hoc-phan-tich-du-lieu-voi-power-bi-cod190.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # KHÓA HỌC PHÂN TÍCH DỮ LIỆU VỚI POWER BI
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### KHÓA HỌC PHÂN TÍCH DỮ LIỆU VỚI POWER BI
 
 16:29 08/04/2025 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![KHÓA HỌC PHÂN TÍCH DỮ LIỆU VỚI POWER BI](images/course/2025/04/original/z6466456445095_45eaef50c6b1004c2aeca3e8642ae3da_1744104612.jpg)
 

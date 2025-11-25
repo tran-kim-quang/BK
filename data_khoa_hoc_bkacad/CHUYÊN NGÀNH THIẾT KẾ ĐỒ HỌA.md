@@ -2,7 +2,7 @@
 title: "CHUYÊN NGÀNH THIẾT KẾ ĐỒ HỌA"
 url: "https://bkacad.com/chuong-trinh-chuyen-thiet-ke-do-hoa-quoc-te-cod150.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # CHUYÊN NGÀNH THIẾT KẾ ĐỒ HỌA
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### CHUYÊN NGÀNH THIẾT KẾ ĐỒ HỌA
 
 11:20 22/12/2020 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![CHUYÊN NGÀNH THIẾT KẾ ĐỒ HỌA](images/course/2024/05/original/z5337924920718_c2c6a24c7719ef65c7e622cf57f0aa77_1715763442.jpg)
 

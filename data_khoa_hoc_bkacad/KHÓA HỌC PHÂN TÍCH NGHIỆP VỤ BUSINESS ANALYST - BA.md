@@ -2,7 +2,7 @@
 title: "KHÓA HỌC PHÂN TÍCH NGHIỆP VỤ BUSINESS ANALYST - BA"
 url: "https://bkacad.com/khoa-hoc-phan-tich-nghiep-vu-business-analyst---ba-cod181.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # KHÓA HỌC PHÂN TÍCH NGHIỆP VỤ BUSINESS ANALYST - BA
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### KHÓA HỌC PHÂN TÍCH NGHIỆP VỤ BUSINESS ANALYST - BA
 
 16:11 22/05/2024 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![KHÓA HỌC PHÂN TÍCH NGHIỆP VỤ BUSINESS ANALYST - BA](images/course/2024/05/original/z5480966804853_ee33eaa17f33a2a9714ba97818396782_1716951141.jpg)
 

@@ -2,7 +2,7 @@
 title: "KHÓA MICROSOFT WORD - TIN HỌC VĂN PHÒNG CƠ BẢN"
 url: "https://bkacad.com/khoa-microsoft-word---tin-hoc-van-phong-co-ban-cod173.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # KHÓA MICROSOFT WORD - TIN HỌC VĂN PHÒNG CƠ BẢN
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### KHÓA MICROSOFT WORD - TIN HỌC VĂN PHÒNG CƠ BẢN
 
 10:37 04/12/2023 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![KHÓA MICROSOFT WORD - TIN HỌC VĂN PHÒNG CƠ BẢN](images/course/2023/12/original/download-1_1701661048.jpg)
 

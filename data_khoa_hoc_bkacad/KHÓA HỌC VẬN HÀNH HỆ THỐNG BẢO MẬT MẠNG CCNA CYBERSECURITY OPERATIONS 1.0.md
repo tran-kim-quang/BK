@@ -2,7 +2,7 @@
 title: "KHÓA HỌC VẬN HÀNH HỆ THỐNG BẢO MẬT MẠNG CCNA CYBERSECURITY OPERATIONS 1.0"
 url: "https://bkacad.com/khoa-hoc-van-hanh-he-thong-bao-mat-mang-ccna-cybersecurity-operations-0-cod122.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # KHÓA HỌC VẬN HÀNH HỆ THỐNG BẢO MẬT MẠNG CCNA CYBERSECURITY OPERATIONS 1.0
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### KHÓA HỌC VẬN HÀNH HỆ THỐNG BẢO MẬT MẠNG CCNA CYBERSECURITY OPERATIONS 1.0
 
 21:04 26/03/2018 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![KHÓA HỌC VẬN HÀNH HỆ THỐNG BẢO MẬT MẠNG CCNA CYBERSECURITY OPERATIONS 1.0](images/course/2020/08/original/ccna-cyber-ops-1024x473_1597658439.jpg)
 

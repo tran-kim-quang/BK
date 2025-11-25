@@ -2,7 +2,7 @@
 title: "KHÓA ĐÀO TẠO TESTER AUTOMATION"
 url: "https://bkacad.com/khoa-dao-tao-tester-automation-cod185.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # KHÓA ĐÀO TẠO TESTER AUTOMATION
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### KHÓA ĐÀO TẠO TESTER AUTOMATION
 
 14:38 23/08/2024 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![KHÓA ĐÀO TẠO TESTER AUTOMATION](images/course/2024/08/original/z5756115676735_5f7d1fb4c5f32143c33fc2ba846a511a_1724398711.jpg)
 

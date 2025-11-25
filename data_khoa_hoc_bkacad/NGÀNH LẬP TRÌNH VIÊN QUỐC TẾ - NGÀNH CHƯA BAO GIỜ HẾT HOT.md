@@ -2,7 +2,7 @@
 title: "NGÀNH LẬP TRÌNH VIÊN QUỐC TẾ - NGÀNH CHƯA BAO GIỜ HẾT HOT"
 url: "https://bkacad.com/nganh-lap-trinh-vien-quoc-te-nganh-chua-bao-gio-het-hot-cod124.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # NGÀNH LẬP TRÌNH VIÊN QUỐC TẾ - NGÀNH CHƯA BAO GIỜ HẾT HOT
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### NGÀNH LẬP TRÌNH VIÊN QUỐC TẾ - NGÀNH CHƯA BAO GIỜ HẾT HOT
 
 14:49 03/05/2018 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![NGÀNH LẬP TRÌNH VIÊN QUỐC TẾ - NGÀNH CHƯA BAO GIỜ HẾT HOT](images/news/olds/vhg1525341304.jpg)
 

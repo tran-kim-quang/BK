@@ -2,7 +2,7 @@
 title: "CHUYÊN NGÀNH QUẢN TRỊ DOANH NGHIỆP VỪA VÀ NHỎ (MARKETING)"
 url: "https://bkacad.com/chuyen-gia-cntt-quan-tri-kinh-doanh-cod64.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # CHUYÊN NGÀNH QUẢN TRỊ DOANH NGHIỆP VỪA VÀ NHỎ (MARKETING)
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### CHUYÊN NGÀNH QUẢN TRỊ DOANH NGHIỆP VỪA VÀ NHỎ (MARKETING)
 
 10:09 03/01/2015 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![CHUYÊN NGÀNH QUẢN TRỊ DOANH NGHIỆP VỪA VÀ NHỎ (MARKETING) ](images/course/2024/05/original/z5337924890229_0c92e08fea5686331c2a43dbeb1b8c7b_1715762515.jpg)
 

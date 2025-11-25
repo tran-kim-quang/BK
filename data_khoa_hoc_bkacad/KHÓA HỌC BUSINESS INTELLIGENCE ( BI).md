@@ -2,7 +2,7 @@
 title: "KHÓA HỌC BUSINESS INTELLIGENCE ( BI)"
 url: "https://bkacad.com/khoa-hoc-business-intelligence--bi-cod179.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # KHÓA HỌC BUSINESS INTELLIGENCE ( BI)
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### KHÓA HỌC BUSINESS INTELLIGENCE ( BI)
 
 16:36 12/03/2024 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![KHÓA HỌC BUSINESS INTELLIGENCE ( BI)](images/course/2024/03/original/bus16330553063619_1710236199.jpg)
 

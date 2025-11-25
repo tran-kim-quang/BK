@@ -2,7 +2,7 @@
 title: "THÔNG BÁO KỲ THI HỌC BỔNG"
 url: "https://bkacad.com/thong-bao-ky-thi-hoc-bong--sinh-vien-tai-nang-2024--–-co-hoi-nhan-hoc-bong-toan-phan-danh-cho-cac-ban-hoc-sinh-thpt-cod151.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # THÔNG BÁO KỲ THI HỌC BỔNG
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### THÔNG BÁO KỲ THI HỌC BỔNG "SINH VIÊN TÀI NĂNG 2025" – CƠ HỘI NHẬN HỌC BỔNG TOÀN PHẦN DÀNH CHO CÁC BẠN HỌC SINH THPT
 
 16:49 28/12/2020 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![THÔNG BÁO KỲ THI HỌC BỔNG ](images/course/2024/10/original/sv-tai-nang-01_1729849234.jpg)
 

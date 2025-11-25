@@ -2,7 +2,7 @@
 title: "Chương trình Quản trị CSDL Oracle 11G"
 url: "https://bkacad.com/chuong-trinh-quan-tri-csdl-oracle-11g-cod111.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # Chương trình Quản trị CSDL Oracle 11G
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### Chương trình Quản trị CSDL Oracle 11G
 
 16:10 05/08/2015 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![Chương trình Quản trị CSDL Oracle 11G](images/news/olds/ydd1438750823.jpg)
 

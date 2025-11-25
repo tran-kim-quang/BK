@@ -2,7 +2,7 @@
 title: "KHÓA ĐÀO TẠO CHUYÊN VIÊN KIỂM THỬ PHẦN MỀM TESTER"
 url: "https://bkacad.com/khoa-dao-tao-chuyen-vien-kiem-thu-phan-mem-tester-cod184.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # KHÓA ĐÀO TẠO CHUYÊN VIÊN KIỂM THỬ PHẦN MỀM TESTER
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### KHÓA ĐÀO TẠO CHUYÊN VIÊN KIỂM THỬ PHẦN MỀM TESTER
 
 10:21 23/08/2024 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![KHÓA ĐÀO TẠO CHUYÊN VIÊN KIỂM THỬ PHẦN MỀM TESTER](images/course/2024/08/original/z5756115655692_935963878c6c28186a6479026fced26d_1724387439.jpg)
 

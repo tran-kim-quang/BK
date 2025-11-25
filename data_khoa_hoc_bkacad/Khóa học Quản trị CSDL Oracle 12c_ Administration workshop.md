@@ -2,7 +2,7 @@
 title: "Khóa học Quản trị CSDL Oracle 12c_ Administration workshop"
 url: "https://bkacad.com/khoa-hoc-quan-tri-csdl-oracle-12c-administration-workshop-cod112.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # Khóa học Quản trị CSDL Oracle 12c_ Administration workshop
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### Khóa học Quản trị CSDL Oracle 12c: Administration workshop
 
 16:10 05/08/2015 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![Khóa học Quản trị CSDL Oracle 12c: Administration workshop](images/news/olds/sgr1438760166.jpg)
 

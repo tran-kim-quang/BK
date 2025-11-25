@@ -2,7 +2,7 @@
 title: "Khóa học IoT - Internet of Things"
 url: "https://bkacad.com/khoa-hoc-iot-internet-of-things-cod121.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # Khóa học IoT - Internet of Things
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### Khóa học IoT - Internet of Things
 
 11:58 15/05/2017 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![Khóa học IoT - Internet of Things](images/news/olds/yki1494816308.png)
 

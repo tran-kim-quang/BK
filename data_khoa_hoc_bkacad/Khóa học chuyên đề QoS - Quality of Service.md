@@ -2,7 +2,7 @@
 title: "Khóa học chuyên đề QoS - Quality of Service"
 url: "https://bkacad.com/khoa-hoc-chuyen-de-qos-quality-of-service-cod81.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # Khóa học chuyên đề QoS - Quality of Service
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### Khóa học chuyên đề QoS - Quality of Service
 
 14:20 05/06/2012 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![Khóa học chuyên đề QoS - Quality of Service](images/news/olds/dez1347350011.jpg)
 

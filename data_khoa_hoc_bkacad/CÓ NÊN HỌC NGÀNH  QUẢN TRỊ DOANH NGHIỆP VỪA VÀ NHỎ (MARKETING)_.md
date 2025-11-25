@@ -2,7 +2,7 @@
 title: "CÓ NÊN HỌC NGÀNH  QUẢN TRỊ DOANH NGHIỆP VỪA VÀ NHỎ (MARKETING)_"
 url: "https://bkacad.com/co-nen-hoc-nganh-cong-nghe-thong-tin-quan-tri-kinh-doanh-quoc-te-cod141.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # CÓ NÊN HỌC NGÀNH  QUẢN TRỊ DOANH NGHIỆP VỪA VÀ NHỎ (MARKETING)_
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### CÓ NÊN HỌC NGÀNH QUẢN TRỊ DOANH NGHIỆP VỪA VÀ NHỎ (MARKETING)?
 
 11:04 04/05/2020 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![  CÓ NÊN HỌC NGÀNH  QUẢN TRỊ DOANH NGHIỆP VỪA VÀ NHỎ (MARKETING)?](images/course/2023/05/original/tgs1588565041-01_1684723283.jpg)
 

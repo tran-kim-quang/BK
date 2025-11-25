@@ -2,7 +2,7 @@
 title: "KHÓA HỌC AWS ACADEMY CLOUD ARCHITECTING"
 url: "https://bkacad.com/khoa-hoc-aws-certified-solutions-architect-–-associate-cod168.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # KHÓA HỌC AWS ACADEMY CLOUD ARCHITECTING
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### KHÓA HỌC AWS ACADEMY CLOUD ARCHITECTING
 
 10:49 09/03/2023 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![KHÓA HỌC AWS ACADEMY CLOUD ARCHITECTING](images/course/2023/03/original/aws-certified-solutions-architect-associate_badge3419559c682629072f1eb968d59dea0741772c0f_1678333840.png)
 

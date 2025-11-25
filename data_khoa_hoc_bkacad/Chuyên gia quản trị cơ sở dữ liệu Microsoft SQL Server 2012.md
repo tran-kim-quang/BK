@@ -2,7 +2,7 @@
 title: "Chuyên gia quản trị cơ sở dữ liệu Microsoft SQL Server 2012"
 url: "https://bkacad.com/chuyen-gia-quan-tri-du-lieu-sql-2012-cod88.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # Chuyên gia quản trị cơ sở dữ liệu Microsoft SQL Server 2012
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### Chuyên gia quản trị cơ sở dữ liệu Microsoft SQL Server 2012
 
 16:06 08/05/2013 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![Chuyên gia quản trị cơ sở dữ liệu Microsoft SQL Server 2012](images/news/olds/aeg1367981672.jpg)
 

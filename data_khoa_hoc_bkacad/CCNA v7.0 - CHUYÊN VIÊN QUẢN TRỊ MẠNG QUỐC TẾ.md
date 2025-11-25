@@ -2,7 +2,7 @@
 title: "CCNA v7.0 - CHUYÊN VIÊN QUẢN TRỊ MẠNG QUỐC TẾ"
 url: "https://bkacad.com/ccna-v70---chuyen-vien-quan-tri-mang-quoc-te-cod59.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # CCNA v7.0 - CHUYÊN VIÊN QUẢN TRỊ MẠNG QUỐC TẾ
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### CCNA v7.0 - CHUYÊN VIÊN QUẢN TRỊ MẠNG QUỐC TẾ
 
 16:03 11/05/2020 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![CCNA v7.0 - CHUYÊN VIÊN QUẢN TRỊ MẠNG QUỐC TẾ](images/course/2020/08/original/ccna_1597649331.png)
 

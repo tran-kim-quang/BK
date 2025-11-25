@@ -2,7 +2,7 @@
 title: "KHÓA HỌC QUẢN TRỊ HỆ THỐNG LINUX LPI"
 url: "https://bkacad.com/khoa-hoc-quan-tri-he-thong-linux-lpi-cod97.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # KHÓA HỌC QUẢN TRỊ HỆ THỐNG LINUX LPI
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### KHÓA HỌC QUẢN TRỊ HỆ THỐNG LINUX LPI
 
 15:20 13/11/2015 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![KHÓA HỌC QUẢN TRỊ HỆ THỐNG LINUX LPI](images/course/2020/08/original/linux_1597650809.jpg)
 

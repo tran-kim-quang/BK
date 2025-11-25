@@ -2,7 +2,7 @@
 title: "KHÓA ĐÀO TẠO LẬP TRÌNH SCRATCH VÀ PYTHON (DÀNH CHO TRẺ 12-15 TUỔI)"
 url: "https://bkacad.com/khoa-dao-tao-lap-trinh-scratch-va-python-danh-cho-tre-12-15-tuoi-cod167.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # KHÓA ĐÀO TẠO LẬP TRÌNH SCRATCH VÀ PYTHON (DÀNH CHO TRẺ 12-15 TUỔI)
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### KHÓA ĐÀO TẠO LẬP TRÌNH SCRATCH VÀ PYTHON (DÀNH CHO TRẺ 12-15 TUỔI)
 
 11:36 04/08/2022 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![KHÓA ĐÀO TẠO LẬP TRÌNH SCRATCH VÀ PYTHON (DÀNH CHO TRẺ 12-15 TUỔI)](images/course/2022/08/original/pythonvsscratch-post-01_1659587948.jpg)
 

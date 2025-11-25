@@ -2,7 +2,7 @@
 title: "KHÓA HỌC DEVNET ASSOCIATE"
 url: "https://bkacad.com/khoa-hoc-devnet-associate-cod152.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # KHÓA HỌC DEVNET ASSOCIATE
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### KHÓA HỌC DEVNET ASSOCIATE
 
 09:31 02/04/2021 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![KHÓA HỌC DEVNET ASSOCIATE](images/course/2024/07/original/z5685788816996_b5d8112b542848394bb5e15ed4ad4149_1722417104.jpg)
 

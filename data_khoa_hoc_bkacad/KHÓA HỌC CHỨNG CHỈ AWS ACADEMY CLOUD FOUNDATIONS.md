@@ -2,7 +2,7 @@
 title: "KHÓA HỌC CHỨNG CHỈ AWS ACADEMY CLOUD FOUNDATIONS"
 url: "https://bkacad.com/khoa-hoc-aws-certified-cloud-practitioner-cod169.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # KHÓA HỌC CHỨNG CHỈ AWS ACADEMY CLOUD FOUNDATIONS
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### KHÓA HỌC CHỨNG CHỈ AWS ACADEMY CLOUD FOUNDATIONS
 
 15:29 03/04/2023 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![KHÓA HỌC CHỨNG CHỈ AWS ACADEMY CLOUD FOUNDATIONS](images/course/2023/04/original/aws-certified-cloud-practitioner_badge634f8a21af2e0e956ed8905a72366146ba22b74c-300x300_1680510543.png)
 

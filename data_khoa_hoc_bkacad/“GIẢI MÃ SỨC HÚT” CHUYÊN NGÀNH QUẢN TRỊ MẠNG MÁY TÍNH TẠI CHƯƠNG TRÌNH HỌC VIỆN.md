@@ -2,7 +2,7 @@
 title: "“GIẢI MÃ SỨC HÚT” CHUYÊN NGÀNH QUẢN TRỊ MẠNG MÁY TÍNH TẠI CHƯƠNG TRÌNH HỌC VIỆN"
 url: "https://bkacad.com/giai-ma-suc-hut-chuyen-nganh-quan-tri-mang-bao-mat-quoc-te-hoc-vien-cong-nghe-bkacad-cod139.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # “GIẢI MÃ SỨC HÚT” CHUYÊN NGÀNH QUẢN TRỊ MẠNG MÁY TÍNH TẠI CHƯƠNG TRÌNH HỌC VIỆN
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### “GIẢI MÃ SỨC HÚT” CHUYÊN NGÀNH QUẢN TRỊ MẠNG MÁY TÍNH TẠI CHƯƠNG TRÌNH HỌC VIỆN CÔNG NGHỆ BKACAD
 
 10:53 04/05/2020 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![“GIẢI MÃ SỨC HÚT” CHUYÊN NGÀNH QUẢN TRỊ MẠNG MÁY TÍNH TẠI CHƯƠNG TRÌNH HỌC VIỆN CÔNG NGHỆ BKACAD](images/news/olds/iej1588564425.jpg)
 

@@ -2,7 +2,7 @@
 title: "KHÓA HỌC IOE - XU HƯỚNG KẾT NỐI TƯƠNG LAI"
 url: "https://bkacad.com/khoa-hoc-ioe-xu-huong-ket-noi-cua-tuong-lai-cod114.html"
 source: "BKACAD Website"
-crawled_at: "2025-11-24"
+crawled_at: "2025-11-25"
 ---
 
 # KHÓA HỌC IOE - XU HƯỚNG KẾT NỐI TƯƠNG LAI
@@ -12,15 +12,6 @@ crawled_at: "2025-11-24"
 ### KHÓA HỌC IOE - XU HƯỚNG KẾT NỐI TƯƠNG LAI
 
 10:47 13/08/2015 
-(function (d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id))
-return;
-js = d.createElement(s);
-js.id = id;
-js.src = "//connect.facebook.net/vi\_VN/sdk.js#xfbml=1&version=v2.6&appId=676651149130836";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
 
 ![KHÓA HỌC IOE - XU HƯỚNG KẾT NỐI TƯƠNG LAI](images/course/2025/05/original/z6640382439192_808ea2d624b1689dd972a2ef5cc58e79_1748243870.jpg)
 
