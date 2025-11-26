@@ -41,7 +41,9 @@ def chunk_documents():
                         chunk.metadata.update(base_metadata)
                         chunked_documents.append(chunk)
 
-    output_file = os.path.join(script_dir, "chunked_documents.jsonl")
+    output_folder = os.path.join(script_dir, "..", "chunked_data")
+    os.makedirs(output_folder, exist_ok=True)
+    output_file = os.path.join(output_folder, "chunked_documents.jsonl")
     with open(output_file, "w", encoding="utf-8") as f:
         for doc in chunked_documents:
             doc_dict = {"page_content": doc.page_content, "metadata": doc.metadata}
